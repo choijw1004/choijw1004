@@ -1,6 +1,6 @@
-## 최장우입니다. 👋
-### Back-end Developer
-상상을 현실로 만드는 개발자가 되고싶습니다.
+
+# Back-end Developer
+
 
 
 ## 🐱 About Me
@@ -25,5 +25,6 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio -5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
+## 💪🏼 Communication Tools 
 
 
