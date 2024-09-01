@@ -11,6 +11,7 @@
 ## 🏫 학력
 - 경영학부 졸업(2017 ~ 2024)
 - 컴퓨터공학과 복수전공(2021 ~ 2024)
+- SSAFY 11기(2024.01 ~ )
 <br/><br/>
 ## 🏆 수상 경력
 - 강원 SW 페스티벌 입상(국내 여행 동행 웹 플랫폼)  
@@ -26,5 +27,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio -5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 ## 💪🏼 Communication Tools 
+
 
 
