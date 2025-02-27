@@ -27,5 +27,6 @@
 
 ## 💪🏼 Communication Tools 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=97choijw@gmail.com)](https://solved.ac/97choijw@gmail.com/)
 
 
