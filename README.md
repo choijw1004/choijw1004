@@ -20,3 +20,4 @@
 
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coco9797)](https://solved.ac/coco9797/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/coco9797?theme=unicorn&font=Lato&ext=contest)
