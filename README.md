@@ -4,6 +4,7 @@
 - 안정성과 확장성을 갖춘 서비스를 만드는 것을 목표로 합니다.
 - [BackEndDeepDive](https://github.com/BackEndDeepDive) 스터디에서 매주 백엔드 필수 서적을 읽고 공유하고 있습니다.
 
-### Education
-- 연세대학교(원주) 경영학부, 컴퓨터공학과 졸업 (2017.03 ~ 2024.02)
-- SSAFY (Samsung Software Academy For Youth) 11기 (2024.01 ~ 2024.12)
+### PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coco9797)](https://solved.ac/coco9797)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/coco9797?theme=unicorn)](https://leetcode.com/coco9797/)
